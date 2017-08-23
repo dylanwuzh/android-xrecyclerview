@@ -35,7 +35,7 @@ dependencies {
 
 [Sample sources][2]
 
-[Sample APK][3]
+[Sample APK](https://github.com/wuzhendev/android-xrecyclerview/raw/master/assets/XRecyclerView_Demo_v1_0_0.apk)
 
 ## License
 
@@ -57,4 +57,3 @@ limitations under the License.
 
 [1]: ./assets/1.jpg
 [2]: ./samples
-[3]: ./assets/XRecyclerView_Demo_v1_0_0.apk
