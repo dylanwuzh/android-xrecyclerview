@@ -27,7 +27,7 @@ dependencies {
 <!-- RecyclerView 的 spanCount，如果是单列的指定为1，默认是单列的 -->
 <attr name="xrv_spanCount" format="integer" />
 
-<!-- 是否是瀑布流，只有当 wrv_rvSpanCount 大于1时才生效 -->
+<!-- 是否是瀑布流，只有当 xrv_spanCount 大于1时才生效 -->
 <attr name="xrv_staggered" format="boolean" />
 ```
 
